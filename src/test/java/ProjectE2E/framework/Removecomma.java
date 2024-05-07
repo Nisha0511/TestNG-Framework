@@ -7,7 +7,7 @@ public class Removecomma {
 	public static void main(String[] args) {
 		
 
-		String price= "20,000";
+		String price= "50,000";
 		String finalPrice= price.replaceAll(",","");
 		
 		System.out.println(finalPrice);
