@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-07T20:22:53 IST" name="Suite" finished-at="2024-05-07T20:23:58 IST" duration-ms="65334">
+    <groups>
+    </groups>
+    <test started-at="2024-05-07T20:22:53 IST" name="Test" finished-at="2024-05-07T20:23:58 IST" duration-ms="65334">
+      <class name="ProjectE2E.framework.PriceRangePageTest">
+        <test-method is-config="true" signature="initializeDriver()[pri:0, instance:ProjectE2E.framework.PriceRangePageTest@248e319b]" started-at="2024-05-07T20:22:53 IST" name="initializeDriver" finished-at="2024-05-07T20:23:05 IST" duration-ms="11997" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method signature="priceRange()[pri:0, instance:ProjectE2E.framework.PriceRangePageTest@248e319b]" started-at="2024-05-07T20:23:05 IST" name="priceRange" finished-at="2024-05-07T20:23:57 IST" duration-ms="52645" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- priceRange -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:ProjectE2E.framework.PriceRangePageTest@248e319b]" started-at="2024-05-07T20:23:57 IST" name="teardown" finished-at="2024-05-07T20:23:58 IST" duration-ms="623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- ProjectE2E.framework.PriceRangePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
