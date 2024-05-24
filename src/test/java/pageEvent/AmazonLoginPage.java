@@ -33,7 +33,7 @@ public class AmazonLoginPage extends TestBase{
 	WebElement alert;
 	
 	
-	
+	//Login page
 	public AmazonLoginPage()
 	{
 		PageFactory.initElements(driver, this);
