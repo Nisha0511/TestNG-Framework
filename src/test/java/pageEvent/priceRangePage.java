@@ -19,7 +19,7 @@ public class priceRangePage extends TestBase{
 	
 	@FindBy(xpath="//span[@class='a-price-whole']")
 	List<WebElement> wholePrice;
-	
+	//price added
 	public priceRangePage()
 	{
 		PageFactory.initElements(driver,this);
